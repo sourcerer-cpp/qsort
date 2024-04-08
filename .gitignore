@@ -16,5 +16,6 @@ app
 # Ignore third-parties
 external
 
-# Ingnore CMake cache
+# Ingnore CMake stuff
 .cache
+CMakeLists.txt.user
