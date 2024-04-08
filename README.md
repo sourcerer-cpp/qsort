@@ -22,7 +22,7 @@ It was written to be an example for [the following article](https://www.cyberfor
 > ```
 
 ## Usage:
-> * Open terminal
+> * Open the terminal
 > * Clone the project using `git clone https://github.com/sourcerer-cpp/qsort.git` command
 > * go to the project directory using `cd qsort` command
 > * eXecute $^1$ `xconfig.sh` shell script using `sh xconfig.sh` command to configure the project 
